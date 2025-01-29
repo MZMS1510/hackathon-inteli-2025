@@ -6,19 +6,15 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Nome do integrante 1](#)
-- [Nome do integrante 2](#)
-- [Nome do integrante 3](#)
-- [Nome do integrante 4](#)
-- [Nome do integrante 5](#)
-- [Nome do integrante 6](#)
-- [Nome do integrante 7](#)
-- [Nome do integrante 8](#)
-
+- [Marcos](#)
+- [Nicolli Venino Santana](#)
+- [Richard](#)
+- [Tobias](#)
+- [Vinícius](#)
 ---
 
 ## **📄 Descrição do Projeto**  
-> _[Descreva aqui o propósito, objetivos e funcionalidades do projeto. Inclua detalhes importantes e o impacto que ele busca causar.]_
+> O projeto tem o propósito de ajudar os usuários a se tornarem líderes melhores por intermédio da recomendação de obras, de palestras e podcasts, de estratégias e de planos de ação. Ao inserir uma dúvida ou uma dificuldade no campo da liderança, o chat identifica as habilidades que faltam para o usuário aprimorar e retorna sugestões de como desenvolve-la. Dessa forma, o projeto tem o potencial de impactar positivamente no aperfeiçoamento de habilidades de liderança nas pessoas, de modo a atuar, assim, como uma ferramenta assistente nesse processo.
 
 ---
 
