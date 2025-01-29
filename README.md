@@ -25,7 +25,13 @@
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
+> Habilidades de liderança;
+
+> Como desenvolver a liderança;
+
+> Como ser um líder melhor;
+
+> Como resolver conlfitos durante o trabalho como um líder.
 ---
 
 ## **📚 Bases de Conhecimento**  
