@@ -9,7 +9,7 @@
 - [Marcos](#)
 - [Nicolli Venino Santana](#)
 - [Richard](#)
-- [Tobias](#)
+- [Tobias Viana Araújo](#)
 - [Vinícius](#)
 ---
 
