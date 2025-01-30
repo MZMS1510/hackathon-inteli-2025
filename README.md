@@ -35,7 +35,7 @@
 ---
 
 ## **📚 Bases de Conhecimento**  
-- 📕 [Pasta com arquivos que utilizamos](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/O%20monge%20e%20o%20Executivo.pdf)
+- 📕 [Pasta com arquivos que utilizamos](https://github.com/MZMS1510/hackathon-inteli-2025/tree/main/Base%20de%20Conhecimentos)
 ### **⚠️ Prompts**
 - 📗 [prompt.txt](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/prompt.txt)
 ### **📘 Principais Referências Utilizadas:**  
