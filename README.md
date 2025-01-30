@@ -1,4 +1,4 @@
-# **🚀 Nome do Projeto**
+# **🚀 **
 
 ### **🔗 Link do Agente GPT:**  
 > _[Insira o link do GPT criado aqui.]_
@@ -7,10 +7,10 @@
 
 ## **👥 Integrantes do Grupo**  
 - [Marcos Vinicius Marcondes Silva](https://www.linkedin.com/in/marcos-vinicius-m-silva/)
-- [Nicolli Venino Santana](#)
-- [Richard Dias Alves](#)
-- [Tobias Viana Araújo](#)
-- [Vinícius Alves Maciel](#)
+- [Nicolli Venino Santana](https://www.linkedin.com/in/nicolli-venino-santana-b84341254/)
+- [Richard Dias Alves](http://linkedin.com/in/richarddalves/)
+- [Tobias Viana Araújo](https://www.linkedin.com/in/tobias-viana/)
+- [Vinícius Alves Maciel](http://www.linkedin.com/in/vinicius-maciel-/)
 ---
 
 ## **📄 Descrição do Projeto**  
