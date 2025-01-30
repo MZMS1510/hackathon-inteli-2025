@@ -1,4 +1,4 @@
-# **🚀 StratLeader (Hackathon - Inteli) **
+# 🚀 StratLeader (Hackathon - Inteli) 
 
 ### **🔗 Link do Agente GPT:**  
 > [StratLeader](https://chatgpt.com/g/g-67992a82d0808191856eeda37f8e7708-stratleader-hackathon-inteli)
