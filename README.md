@@ -41,9 +41,11 @@
 
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[SINEK, Simon. Líderes Se Servem por Último. Tradução de Marcello Borges. São Paulo: HSM Editora, 2015. ISBN: 978-85-67389-58-5.](
-- 📙 _[GREENLEAF, Robert K. The Servant-Leader Within: A Transformative Path. Paulist Press, 2003. ISBN: 978-1-6164-3087-0.]_  
-- 📕 _[MAXWELL, John C. O Líder 360º: Como Desenvolver Seu Poder de Influência a Partir de Qualquer Ponto da Estrutura Corporativa. Tradução de Valéria Lamim Delgado Fernandes. São Paulo: Thomas Nelson Brasil, 2007. ISBN: 978-85-6030-312-0.](_  
+- 📗 _[SINEK, Simon. Líderes Se Servem por Último. Tradução de Marcello Borges. São Paulo: HSM Editora, 2015. ISBN: 978-85-67389-58-5.](https://github.com/user-attachments/files/18606139/Lideres_se_servem_por_ultimo.pdf)
+
+- 📙 _[GREENLEAF, Robert K. The Servant-Leader Within: A Transformative Path. Paulist Press, 2003. ISBN: 978-1-6164-3087-0.](https://github.com/user-attachments/files/18606131/Robert_K_Greenleaf_The_Servant_as_Leader.pdf)
+  
+- 📕 _[MAXWELL, John C. O Líder 360º: Como Desenvolver Seu Poder de Influência a Partir de Qualquer Ponto da Estrutura Corporativa. Tradução de Valéria Lamim Delgado Fernandes. São Paulo: Thomas Nelson Brasil, 2007. ISBN: 978-85-6030-312-0.](https://github.com/user-attachments/files/18606146/John-C.-Maxwell-Lider-360.pdf)
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
