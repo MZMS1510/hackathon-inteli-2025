@@ -37,7 +37,8 @@
 ## **📚 Bases de Conhecimento**  
 > _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 [prompts.txt](https://github.com/user-attachments/files/18606078/prompts.txt)
+
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 _[SINEK, Simon. Líderes Se Servem por Último. Tradução de Marcello Borges. São Paulo: HSM Editora, 2015. ISBN: 978-85-67389-58-5.](
