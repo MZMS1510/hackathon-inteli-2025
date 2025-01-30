@@ -35,7 +35,7 @@
 ---
 
 ## **📚 Bases de Conhecimento**  
-> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
+- 📕 [Link](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/O%20monge%20e%20o%20Executivo.pdf)
 ### **⚠️ Prompts**
 - 📗 [prompt.txt](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/prompt.txt)
 ### **📘 Principais Referências Utilizadas:**  
@@ -46,9 +46,9 @@
 - 📕 _[MAXWELL, John C. O Líder 360º: Como Desenvolver Seu Poder de Influência a Partir de Qualquer Ponto da Estrutura Corporativa. Tradução de Valéria Lamim Delgado Fernandes. São Paulo: Thomas Nelson Brasil, 2007. ISBN: 978-85-6030-312-0.](https://github.com/user-attachments/files/18606146/John-C.-Maxwell-Lider-360.pdf)
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
-- 🔗 [Link 2](#)  
-- 🔗 [Link 3](#)  
+- 🔗 [O Monge e o Executivo](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/O%20monge%20e%20o%20Executivo.pdf)  
+- 🔗 [Extreme Ownership How us Navy Seals Lead and Win](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/extreme_ownership__how_us_navy_seals_lead_and_win.pdf)
+- 🔗 [Manifesto Inteli](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/ManifestoInteli_final.pdf)
 
 
 Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
