@@ -8,9 +8,9 @@
 ## **👥 Integrantes do Grupo**  
 - [Marcos Vinicius Marcondes Silva](https://www.linkedin.com/in/marcos-vinicius-m-silva/)
 - [Nicolli Venino Santana](#)
-- [Richard](#)
+- [Richard Dias Alves](#)
 - [Tobias Viana Araújo](#)
-- [Vinícius](#)
+- [Vinícius Alves Maciel](#)
 ---
 
 ## **📄 Descrição do Projeto**  
