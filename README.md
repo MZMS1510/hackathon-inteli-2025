@@ -37,7 +37,7 @@
 ## **📚 Bases de Conhecimento**  
 > _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
 ### **⚠️ Prompts**
-- 📗 
+- 📗 [prompt.txt](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/prompt.txt)
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 _[SINEK, Simon. Líderes Se Servem por Último. Tradução de Marcello Borges. São Paulo: HSM Editora, 2015. ISBN: 978-85-67389-58-5.](https://github.com/user-attachments/files/18606139/Lideres_se_servem_por_ultimo.pdf)
 
