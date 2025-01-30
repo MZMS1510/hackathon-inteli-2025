@@ -40,9 +40,9 @@
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
-- 📙 _[Nome ou link da base de conhecimento 2]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+- 📗 _[SINEK, Simon. Líderes Se Servem por Último. Tradução de Marcello Borges. São Paulo: HSM Editora, 2015. ISBN: 978-85-67389-58-5.](
+- 📙 _[GREENLEAF, Robert K. The Servant-Leader Within: A Transformative Path. Paulist Press, 2003. ISBN: 978-1-6164-3087-0.]_  
+- 📕 _[MAXWELL, John C. O Líder 360º: Como Desenvolver Seu Poder de Influência a Partir de Qualquer Ponto da Estrutura Corporativa. Tradução de Valéria Lamim Delgado Fernandes. São Paulo: Thomas Nelson Brasil, 2007. ISBN: 978-85-6030-312-0.](_  
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
