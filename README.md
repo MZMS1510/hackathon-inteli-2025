@@ -35,7 +35,7 @@
 ---
 
 ## **📚 Bases de Conhecimento**  
-- 📕 [Link](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/O%20monge%20e%20o%20Executivo.pdf)
+- 📕 [Pasta com arquivos que utilizamos](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/O%20monge%20e%20o%20Executivo.pdf)
 ### **⚠️ Prompts**
 - 📗 [prompt.txt](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/prompt.txt)
 ### **📘 Principais Referências Utilizadas:**  
@@ -49,6 +49,3 @@
 - 🔗 [O Monge e o Executivo](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/O%20monge%20e%20o%20Executivo.pdf)  
 - 🔗 [Extreme Ownership How us Navy Seals Lead and Win](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/extreme_ownership__how_us_navy_seals_lead_and_win.pdf)
 - 🔗 [Manifesto Inteli](https://github.com/MZMS1510/hackathon-inteli-2025/blob/main/Base%20de%20Conhecimentos/ManifestoInteli_final.pdf)
-
-
-Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
